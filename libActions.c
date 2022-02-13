@@ -1,6 +1,6 @@
 /*
- *   A library to create calback functions when some specific characters are 
- *   encountered
+ *   A library to create calback functions that can be called when some specific
+ *   characters are encountered.
  *
  *   Copyright (c) 2022 Hussein Layth Al-Madhachi
  *
