@@ -87,6 +87,6 @@ void access_action (  ActionsLookup( actions_lookup )  ,
  *                                          to handle exceptions if there were
  *                                          no match
  *  
- */
+ */ 
 void set_default_action (  ActionsLookup( actions_lookup )  ,
 							void (* function)(char * string)  );
