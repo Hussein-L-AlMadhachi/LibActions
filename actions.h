@@ -89,5 +89,3 @@ void access_action (  ActionsLookup( actions_lookup )  ,
  */
 void set_default_action (  ActionsLookup( actions_lookup )  ,
 							void (* function)(char * string)  );
-
-int hello;
