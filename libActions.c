@@ -1,4 +1,7 @@
 /*
+ *   A library to create calback functions when some specific characters are 
+ *   encountered
+ *
  *   Copyright (c) 2022 Hussein Layth Al-Madhachi
  *
  *   Permission is hereby granted, free of charge, to any person obtaining a copy
