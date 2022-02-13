@@ -40,6 +40,10 @@ int main()
 	}
 }
 ```
+this should be compiled with
+```bash
+user@machine:~$ gcc libActions.c example.c
+```
 
 # The API documentation
 ```c
