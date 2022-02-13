@@ -6,6 +6,9 @@ A library to create calback functions that can be called when some specific char
 
 this is an example on how it can be used:
 ```c
+#include <stdio.h>
+#include "actions.h"
+
 int main()
 {
 	/*     Setting up the lookup table      */
