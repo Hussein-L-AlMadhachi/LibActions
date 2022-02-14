@@ -112,3 +112,7 @@ void access_action (  ActionsLookup( actions_lookup )  ,
 void set_default_action (  ActionsLookup( actions_lookup )  ,
 							void (* function)(char * string)  );
 ```
+
+#COPYING
+
+This code is licensed under terms of the General Public License version 3.
